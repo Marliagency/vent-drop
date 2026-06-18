@@ -15,5 +15,10 @@ URLs públicas en CDN, ya enganchadas a Shopify.
 - Tema **Ventto — Diseño v3** (`193895235966`, borrador): hero con foto lifestyle (layout dividido). Publícalo tú.
 - Nota: son imágenes IA generadas; representativas del producto. Cuando tengas las fotos REALES del proveedor (DSers), conviene sustituir la foto principal de la ficha para fidelidad total.
 
+## Estilo Apple (v5)
+- Hero blanco: https://d8j0ntlcm91z4.cloudfront.net/user_3DuupfRLOT8CVNxJIjSDN3j9Elm/hf_20260618_142340_fff6ab78-c017-4bea-8970-58d90798d4fd.png
+- Detalle negro: https://d8j0ntlcm91z4.cloudfront.net/user_3DuupfRLOT8CVNxJIjSDN3j9Elm/hf_20260618_142342_b6cadfd7-e6ef-4ece-af70-4254203ef19f.png
+- Tema **Ventto — Apple v5** (`193899004286`): home minimalista estilo Apple (blanco/azul #0071E3, fuente sistema SF, hero producto grande, sección negra, specs). Previsualizar y mandar captura antes de publicar.
+
 ## Nota de flujo
 Cada publicación convierte el borrador en tema en vivo y bloquea su edición por API → por eso van v1/v2/v3. Recomendado: no publicar cada borrador; acumular cambios y publicar una vez. Borra los temas antiguos a mano para no acumular.
