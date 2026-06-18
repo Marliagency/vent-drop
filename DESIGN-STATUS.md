@@ -3,10 +3,16 @@
 ## Moneda
 - ✅ **EUR confirmado** (el widget de producto ya devuelve `currencyCode: EUR`). Precios se muestran como 34,95 € / 54,95 €.
 
-## Tema de trabajo
-- **Horizon** (`OnlineStoreTheme/193880260990`): tema EN VIVO. La Admin API bloquea escribir/publicar el tema activo, así que NO se toca.
-- **Ventto — Diseño** (`OnlineStoreTheme/193881604478`, UNPUBLISHED): copia donde está el rediseño. **Publícala tú** en *Tienda online → Temas → Ventto — Diseño → Publicar*.
-- Previsualizar sin publicar: *Tienda online → Temas → Ventto — Diseño → Acciones → Vista previa*.
+## Temas (la API solo deja editar borradores; tú publicas)
+- **Ventto — Diseño** (`193881604478`): **EN VIVO** (lo publicaste). Tiene paleta + home de 8 secciones.
+- **Ventto — Diseño v2** (`193893859710`, borrador): **versión mejorada** con hero de degradado + tabla comparativa. **Publícala tú** para que sea la nueva home: *Tienda online → Temas → v2 → Publicar*. Previsualiza antes en *Acciones → Vista previa*.
+- **Horizon** (`193880260990`): borrador original de respaldo.
+- Nota: cada vez que publicas un tema, la API ya no puede editarlo (bloqueo del tema en vivo); por eso para cada mejora creo un borrador nuevo (vN) y lo publicas tú. Puedes borrar los temas antiguos a mano para no acumular.
+
+## Pase de diseño v2 (en el borrador v2)
+- **Hero premium**: degradado suave cian→hueso, etiqueta superior, titular grande responsive, doble CTA (coral + contorno a Pack 2) y microcopia de confianza.
+- **Tabla comparativa** "Ventto vs. ventilador normal" (columna Ventto resaltada en cian).
+- Tarjetas de beneficios/FAQ con borde sutil para más definición.
 
 ## Cambios aplicados a la copia
 - **Paleta Ventto** (`settings_data.json`): fondo hueso `#F7F5F2`, tinta `#1A1A1A`, CTA coral `#FF6B5A` con texto tinta (AA), badge oferta cian `#2BB6C4`, Plus Jakarta Sans.
